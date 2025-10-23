@@ -23,6 +23,27 @@ llama-gemini-chat/
 └── .gitignore
 ```
 
+## App Preview:
+
+<table width="100%"> 
+<tr>
+<td width="50%">      
+&nbsp; 
+<br>
+<p align="center">
+  Main Feed
+</p>
+<img src="https://github.com/DavidDanso/llama-gemini-chat/blob/main/ui/main-feed.png" />
+</td> 
+<td width="50%">
+<br>
+<p align="center">
+  LLM Response
+</p>
+<img src="https://github.com/DavidDanso/llama-gemini-chat/blob/main/ui/response.png" />
+</td>
+</table>
+
 ## Core Components
 
 ### `api/app.py` - FastAPI Server
